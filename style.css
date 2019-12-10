@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	color: #439F8A;
+	background: lightgrey;
+	font-family: 'Comfortaa', cursive;
+}
+
+body
+{
+	background: lightgrey;
+}
+
+h2 {
+	color: #439F8A;
+	font-family: 'Comfortaa', cursive;
+}
+
+ol { 
+text-align: left;
+ }
+
+ img {
+ 	width: 300px
+ }
